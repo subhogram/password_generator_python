@@ -1,6 +1,7 @@
 import string
 import random
 
+
 #length of password
 z=int(input('What is the length of your password? '))
 
